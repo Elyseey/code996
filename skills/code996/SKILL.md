@@ -1,10 +1,6 @@
 ---
 name: code996
-description: >
-  分析 Git 仓库的团队工作强度并生成 996 分析报告。当用户要求分析加班情况、
-  统计团队工作时间分布、生成 996 报告、了解加班文化或评估工作强度时触发。
-  Use when the user wants to analyze overtime, team work intensity, 996 index,
-  or generate a work-hours report for a Git repository.
+description: 根据 Git 提交时间分析团队工作时段与 996 指标；用于用户要求的工作强度报告。
 ---
 
 # code996 — 团队工作强度 / 996 分析报告
